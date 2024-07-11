@@ -19,4 +19,4 @@ FROM (
 )
 WHERE body_rank <= 5
 ORDER BY
-    body, num_sales DESC
+    body, num_sales DESC;
